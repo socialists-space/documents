@@ -24,21 +24,21 @@ Members of the Space Coast DSA (collectively, the membership) will be those indi
 - to elect the Local Chapter's Steering Committee
 - to elect delegates to the national, regional, and state conventions
 - to vote on matters related to local and national policy
-- to make recommendations on issues, policies, activities, and ongoing efforts pursuant to local or national political goals, and 
+- to make recommendations on issues, policies, activities, and ongoing efforts pursuant to local or national political goals, and
 - to contribute toward the Local Chapter's goals as described in Article II.
 
 ### Section 2. Resignation and Expulsion.
 Any member may resign from National DSA by submitting an email or letter of resignation to the National Director of National DSA.
 
-Any member may resign from the Local Chapter and become an at-large member of National DSA by sending an email or letter of resignation to both the Communications Facilitator of the Local Chapter and the National Director. 
+Any member may resign from the Local Chapter and become an at-large member of National DSA by sending an email or letter of resignation to both the Communications Facilitator of the Local Chapter and the National Director.
 
 If a member in good standing is:
-- found to be consistently engaging in undemocratic, disruptive behavior; or 
+- found to be consistently engaging in undemocratic, disruptive behavior; or
 - found to have violated the Local Chapter's Code of Conduct; or
 - found to be a former or current member of a policing organization or policing union; or
 - found to have engaged in anti-union activities,
 
-the Local Chapter may vote to suspend (as defined in the Code of Conduct) or expel them from the Local Chapter. 
+the Local Chapter may vote to suspend (as defined in the Code of Conduct) or expel them from the Local Chapter.
 
 In order for such a finding to be made, another DSA member must formally proffer written charges against the member in question to the Local Chapter Steering Committee, which shall set the date of a Local Chapter meeting for deliberations on the charges. The member in question must receive a copy of the written charges and notice of the meeting a minimum of fourteen (14) days before that meeting takes place, as well as an opportunity to speak before members prior to a determining vote.
 
@@ -88,7 +88,7 @@ The officers of the Local Chapter will be two (2) Co-Chairs, Communications Faci
 In the event of a vacancy in any Local Chapter office, a special election for the remainder of the vacant member's term shall be triggered within thirty (30) days after the opening of the vacancy if regular elections are not to be held within sixty (60) days of the vacancy. Special elections may coincide with a Regular Meeting.
 
 ### Section 3. Co-Chairs.
-The Co-Chairs will preside over Local Chapter and Steering Committee meetings or will appoint a substitute to assume the powers and duties of the presiding officer as specified in Robert's Rules of Order, Newly Revised. 
+The Co-Chairs will preside over Local Chapter and Steering Committee meetings or will appoint a substitute to assume the powers and duties of the presiding officer.
 
 The Co-Chairs will be the official public spokespersons for the Local Chapter and will facilitate such actions and policies as the Local Chapter's general welfare may demand.
 
@@ -103,7 +103,7 @@ The Communications Facilitator will be responsible for answering all corresponde
 
 The Communications Facilitator will be responsible also for the taking of minutes of all Local Chapter and Steering Committee Meetings, the collection and maintenance of Committee charters, notes, and meeting minutes, and making copies available to members promptly. They shall have custody of these documents, and of the resolutions, reports and other official records of the Local Chapter, and shall transfer official records in good condition to their successor. Official records shall include the documents necessary for continued functioning of the Local Chapter, such as member lists, and all documentation necessary to provide, to the general membership, transparent accountability of Local Chapter actions and decisions to the greatest reasonable extent.
 
-When Robert's Rules of Order, Newly Revised is used, the Communications Facilitator will have the same powers as a Secretary.
+When Rusty's Rules of Order is used, the Communications Facilitator will have the same powers as a Secretary.
 
 ### Section 5. Treasurer.
 The Treasurer will be responsible for the funds and financial records of the Local Chapter. All funds collected by the Local Chapter will be turned over to the Treasurer, who shall deposit them in a bank account under the name of the Local Chapter. In cooperation with the Communications Facilitator, the Treasurer will be responsible for ensuring that membership dues are paid up-to-date. The Treasurer will chair a Finance Committee if one is established; will prepare the annual Local Chapter budget and deliver the Local Chapter financial report to the General Meeting of the Local Chapter, as well as periodic progress reports as requested by the Steering Committee of the Local Chapter; will provide basic information to National DSA related to the operations and finances of the Local Chapter as necessary.
@@ -130,7 +130,7 @@ The Local Chapter Steering Committee will be responsible for establishing progra
 ### Section 3. Meetings.
 The meetings of the Steering Committee will be held at such intervals as may be determined by a prior Steering Committee Meeting or by consultation between a majority of the members of the Steering Committee. All members of the Steering Committee must (ordinarily) be given four (4) days oral, written, or electronic notice of regular Steering Committee Meetings; a 24-hour notice may be given under special emergency circumstances. Notice requirements may be waived only by unanimous approval. Steering Committee Meetings may be held electronically by any means acceptable to all the members of the Steering Committee. Any member of the Local Chapter in good standing may observe meetings of the Steering Committee and the Steering Committee shall allow for a question and answer period and a comment period. However, the Steering Committee may hold executive sessions if 60% of its members vote to do so in order to discuss member discipline or security matters.
 
-The Steering Committee may govern itself through any reasonable decision-making process, including development of meeting rules and norms or decisions by consensus. When there is a dispute over how decisions shall be made, Robert's Rules of Order, Newly Revised​ shall govern.
+The Steering Committee may govern itself through any reasonable decision-making process, including development of meeting rules and norms or decisions by consensus. When there is a dispute over how decisions shall be made, Rusty's Rules of Order shall govern.
 
 ### Section 4. Quorum.
 There is no quorum for Steering Committee decisions. However, no Steering Committee decision shall be valid without a majority of the total number of Steering Committee members voting in assent, and notice as specified in Section 3.
@@ -213,7 +213,7 @@ Proposed amendments to these Bylaws must be made by written resolution, endorsed
 ## Article XIV. Rules of the Local Chapter.
 
 ### Section 1. Rules.
-The Rules contained in Robert's Rules of Order, Newly Revised, shall govern this Local Chapter in cases to which they are applicable and in which they are not inconsistent with these Bylaws. Consensus decision-making is desirable where feasible, but meetings must submit to Robert's Rules of Order, Newly Revised upon the request of a member.
+The Rules contained in Rusty's Rules of Order shall govern this Local Chapter in cases to which they are applicable and in which they are not inconsistent with these Bylaws. Consensus decision-making is desirable where feasible, however meetings must submit to Rusty's Rules of Order upon the majority vote of those in attendance.
 
 ### Section 2. Action Out of Order.
 Any action taken by an officer or member of the Local Chapter in contravention of these Bylaws is null and void.
