@@ -227,7 +227,7 @@ The Local Chapter will follow the Harassment Policy of national DSA.
 In the event of the dissolution of this Local Chapter, all remaining funds and assets are to be released to National DSA. If both this Local Chapter and National DSA are being dissolved, then all remaining funds and assets are to be released to such other organizations that are organized exclusively for the promotion of social welfare and that will operate to further the common good and general welfare of the community included in this Local Chapter's stated boundaries. The final action of the Local Chapter shall be to vote on selecting the organization(s) to which funds will be disbursed.
 
 ## Article XVI. Prohibited Activity
-The Space Coast Democratic Socialists of America shall not engage in activity prohibited by the IRS guidelines established for 501 (c) 4 organizations or similar rules or laws established by the state of Florida, nor shall the Local Chapter engage in any activity prohibited by resolutions adopted by DSA's National Convention or DSA's National Political Committee.
+The Space Coast, FL Democratic Socialists of America shall not engage in activity prohibited by the IRS guidelines established for 501(c)(4) organizations or similar rules or laws established by the state of Florida, nor shall the Local Chapter engage in any activity prohibited by resolutions adopted by DSA's National Convention or DSA's National Political Committee.
 
 ## Certification
 These bylaws were approved by a majority of the Local Chapter's membership on November 28th, 2018.
