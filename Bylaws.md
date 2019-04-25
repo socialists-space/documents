@@ -195,7 +195,7 @@ Following Article V, Section 5 of national DSA’s Constitution, delegates to th
 A three-person Nominations Committee shall be established at least one month prior to every election by vote of a Regular Meeting. It shall solicit and receive nominations for the positions to be elected.
 
 ### Section 2. Nominations Process.
-Nominations for Local Chapter officers and delegates to the National Convention shall be opened at least 31 days before an election. The call for nominations shall be announced to all Chapter members in good standing as soon as nominations are open. A member must receive  nominations from at least 5% of the membership in order to run for office.
+Nominations for Local Chapter officers and delegates to the National Convention shall be opened at least 31 days before an election. The call for nominations shall be announced to all Local Chapter members in good standing as soon as nominations are open. A member must receive  nominations from at least 5% of the membership in order to run for office.
 
 ### Section 3. Elections Process.
 Elections shall be held in accordance with Robert's Rules of Order, Newly Revised.
