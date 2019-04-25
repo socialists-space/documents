@@ -187,3 +187,6 @@ The Bylaws of the SCYS may be amended at a regular meeting by two-thirds (2/3) o
 
 ### Section 2. Notice of Adoption
 A copy of the bylaws as amended shall be filed with the DSA within thirty (30) days following the adoption of any amendment.
+
+## Certification
+These bylaws were approved by a majority of the Branch's membership on MONTH 00th, 201X, and the Local Chapter's membership on April 24th, 2019.
