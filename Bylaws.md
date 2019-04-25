@@ -132,7 +132,7 @@ The Steering Committee may govern itself through any reasonable decision-making 
 There is no quorum for Steering Committee decisions. However, no Steering Committee decision shall be valid without a majority of the total number of Steering Committee members voting in assent, and notice as specified in Section 3.
 
 ### Section 5. Board of Directors
-For the purposes of meeting the requirements of local and state incorporation laws, the Chapter shall have a “Board of Directors” consisting of members of the Steering Committee assigned for the purpose as logical and required by law. (For example, if the law requires a “Secretary” then the Chapter's Communications Facilitator is a logical fit.) Officers of the Steering Committee so appointed do not gain any new or additional powers or responsibilities except those strictly required by law.
+For the purposes of meeting the requirements of local and state incorporation laws, the Local Chapter shall have a “Board of Directors” consisting of members of the Steering Committee assigned for the purpose as logical and required by law. (For example, if the law requires a “Secretary” then the Local Chapter's Communications Facilitator is a logical fit.) Officers of the Steering Committee so appointed do not gain any new or additional powers or responsibilities except those strictly required by law.
 
 ## Article VII. Branches.
 
