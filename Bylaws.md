@@ -200,8 +200,11 @@ Nominations for Local Chapter officers and delegates to the National Convention 
 ### Section 3. Elections Process.
 Elections shall be held in accordance with Robert's Rules of Order, Newly Revised.
 
-### Section 4. Recall.
-Members may petition for the removal an elected official by collecting signatures of 10% of the membership, and having a majority of those present at a Meeting vote in favor of removal. Membership must be given at least fourteen (14) days' notice of any upcoming removal vote.
+### Section 4. Uncontested Positions.
+If a position is uncontested, the nominee may be declared elected by acclamation.
+
+### Section 5. Recall.
+Any officer of the Local Chapter of DSA may be recalled for malfeasance or failure to fulfill their duties or obligations as an officer. In order to recall or remove an officer, a member in good standing must formally refer a request to remove said officer to the Local Chapter Executive Committee, which will set a date of a Local Chapter meeting for deliberations on the accused officer’s removal. The officer in question must receive written documentation of the specific reasons for the removal request and notice of the meeting a minimum of two weeks before the meeting takes place. The accused officer will be given a chance to speak in their own defense at this meeting. Removal of an officer requires a two-thirds vote of the Local Chapter meeting.
 
 ## Article XII. Code of Conduct
 The Local Chapter will establish, by vote of a Meeting, a code of conduct (Code of Conduct) that outlines the boundaries of acceptable behavior by members of the Local Chapter and describes options for censure of members, including suspension or expulsion. The Code of Conduct shall be made available to all members of the Local Chapter. Amendments to the Code of Conduct must be approved at a Meeting.
