@@ -2,7 +2,7 @@
 
 ## Article I: Name.
 
-The name of the Local Chapter shall be the Space Coast Democratic Socialists of America (DSA). DSA is a not-for-profit corporation.
+The name of the Local Chapter shall be the Space Coast, FL Democratic Socialists of America (DSA). DSA is a not-for-profit corporation.
 
 ## Article II: Purpose.
 
