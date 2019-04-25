@@ -26,21 +26,20 @@ Members of the Space Coast DSA (collectively, the membership) will be those indi
 6. to contribute toward the Local Chapter's goals as described in Article II.
 
 ### Section 2. Resignation and Expulsion.
-Any member may resign from National DSA by submitting an email or letter of resignation to the National Director of National DSA.
-
-Any member may resign from the Local Chapter and become an at-large member of National DSA by sending an email or letter of resignation to both the Communications Facilitator of the Local Chapter and the National Director.
+Any member may resign from the Local Chapter and become an at-large member of National DSA by sending an email or letter of resignation to both the Communications Facilitator of the Local Chapter and to National DSA.
 
 If a member in good standing is:
-- found to be consistently engaging in undemocratic, disruptive behavior; or
-- found to have violated the Local Chapter's Code of Conduct; or
-- found to be a former or current member of a policing organization or policing union; or
-- found to have engaged in anti-union activities,
-
+1. found to be consistently engaging in undemocratic, disruptive behavior; or
+2. found to have violated the Local Chapter's Code of Conduct; or
+3. found to be in substantial disagreement with the principles or policies of national DSA
+4. found to have engaged in anti-union activities or
+5. found to be under the discipline of any democratic centralist organization,
 the Local Chapter may vote to suspend (as defined in the Code of Conduct) or expel them from the Local Chapter.
 
-In order for such a finding to be made, another DSA member must formally proffer written charges against the member in question to the Local Chapter Steering Committee, which shall set the date of a Local Chapter meeting for deliberations on the charges. The member in question must receive a copy of the written charges and notice of the meeting a minimum of fourteen (14) days before that meeting takes place, as well as an opportunity to speak before members prior to a determining vote.
+In order for such a finding to be made, another DSA member must formally prefer written charges against the member in question to the Local Chapter Steering Committee, which shall set the date of a Local Chapter meeting for deliberations on the charges. The member in question must receive a copy of the written charges and notice of the meeting a minimum of fourteen (14) days before that meeting takes place, as well as an opportunity to speak before members prior to a determining vote.
 
 Suspension or expulsion of a member shall require a two-thirds vote at a Meeting. A suspended or expelled member may appeal to the National Political Committee of DSA.
+
 
 ### Section 3. Voluntary Donations.
 As mandated by the national Bylaws, the Local Chapter may establish a Local Chapter pledge system of voluntary donations for its members. The payment or nonpayment of a Local Chapter donation may not deny membership or the privileges or the powers of membership to any individual that is in good standing of National DSA, including voting or for holding Local Chapter office. Members may not face retaliatory action for the nonpayment of donations or preferential treatment for paying local donations (see the Code of Conduct). Donations shall be kept anonymous to the greatest practical extent.
