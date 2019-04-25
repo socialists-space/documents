@@ -40,12 +40,11 @@ In order for such a finding to be made, another DSA member must formally prefer 
 
 Suspension or expulsion of a member shall require a two-thirds vote at a Meeting. A suspended or expelled member may appeal to the National Political Committee of DSA.
 
-
 ### Section 3. Voluntary Donations.
 As mandated by the national Bylaws, the Local Chapter may establish a Local Chapter pledge system of voluntary donations for its members. The payment or nonpayment of a Local Chapter donation may not deny membership or the privileges or the powers of membership to any individual that is in good standing of National DSA, including voting or for holding Local Chapter office. Members may not face retaliatory action for the nonpayment of donations or preferential treatment for paying local donations (see the Code of Conduct). Donations shall be kept anonymous to the greatest practical extent.
 
 ### Section 4. Privacy concerns.
-Care will be taken to protect the privacy of each member's contact information. Protected information includes member email addresses, phone numbers, and mailing or physical addresses. Protected information may only be shared to members outside the Steering Committee on a need-to-know basis to facilitate communication to members. Anyone with access to protected information must agree to use it only to further goals of the local chapter.
+Care will be taken to protect the privacy of each member's contact information. Protected information includes member email addresses, phone numbers, and mailing or physical addresses. Protected information may only be shared to members outside the Steering Committee on a need-to-know basis to facilitate communication to members. Anyone with access to protected information must agree to use it only to further goals of the Local Chapter.
 
 ## Article IV. Local Chapter Meetings.
 
