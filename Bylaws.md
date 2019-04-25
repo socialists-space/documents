@@ -1,4 +1,4 @@
-# Bylaws of the Space Coast Local Chapter of the Democratic Socialists of America
+# Bylaws of the Space Coast, FL Local Chapter of the Democratic Socialists of America
 
 ## Article I: Name.
 
@@ -24,21 +24,21 @@ Members of the Space Coast DSA (collectively, the membership) will be those indi
 - to elect the Local Chapter's Steering Committee
 - to elect delegates to the national, regional, and state conventions
 - to vote on matters related to local and national policy
-- to make recommendations on issues, policies, activities, and ongoing efforts pursuant to local or national political goals, and 
+- to make recommendations on issues, policies, activities, and ongoing efforts pursuant to local or national political goals, and
 - to contribute toward the Local Chapter's goals as described in Article II.
 
 ### Section 2. Resignation and Expulsion.
 Any member may resign from National DSA by submitting an email or letter of resignation to the National Director of National DSA.
 
-Any member may resign from the Local Chapter and become an at-large member of National DSA by sending an email or letter of resignation to both the Communications Facilitator of the Local Chapter and the National Director. 
+Any member may resign from the Local Chapter and become an at-large member of National DSA by sending an email or letter of resignation to both the Communications Facilitator of the Local Chapter and the National Director.
 
 If a member in good standing is:
-- found to be consistently engaging in undemocratic, disruptive behavior; or 
+- found to be consistently engaging in undemocratic, disruptive behavior; or
 - found to have violated the Local Chapter's Code of Conduct; or
 - found to be a former or current member of a policing organization or policing union; or
 - found to have engaged in anti-union activities,
 
-the Local Chapter may vote to suspend (as defined in the Code of Conduct) or expel them from the Local Chapter. 
+the Local Chapter may vote to suspend (as defined in the Code of Conduct) or expel them from the Local Chapter.
 
 In order for such a finding to be made, another DSA member must formally proffer written charges against the member in question to the Local Chapter Steering Committee, which shall set the date of a Local Chapter meeting for deliberations on the charges. The member in question must receive a copy of the written charges and notice of the meeting a minimum of fourteen (14) days before that meeting takes place, as well as an opportunity to speak before members prior to a determining vote.
 
@@ -88,7 +88,7 @@ The officers of the Local Chapter will be two (2) Co-Chairs, Communications Faci
 In the event of a vacancy in any Local Chapter office, a special election for the remainder of the vacant member's term shall be triggered within thirty (30) days after the opening of the vacancy if regular elections are not to be held within sixty (60) days of the vacancy. Special elections may coincide with a Regular Meeting.
 
 ### Section 3. Co-Chairs.
-The Co-Chairs will preside over Local Chapter and Steering Committee meetings or will appoint a substitute to assume the powers and duties of the presiding officer as specified in Robert's Rules of Order, Newly Revised. 
+The Co-Chairs will preside over Local Chapter and Steering Committee meetings or will appoint a substitute to assume the powers and duties of the presiding officer as specified in Robert's Rules of Order, Newly Revised.
 
 The Co-Chairs will be the official public spokespersons for the Local Chapter and will facilitate such actions and policies as the Local Chapter's general welfare may demand.
 
