@@ -186,6 +186,9 @@ Local Chapter delegates and alternates to any National, Regional, or State Conve
 ### Section 2. Committees.
 In the event that a national, regional, or state-level committee is being formed and the responsible body asks local chapters for nominees to serve on that committee, the Local Chapter Steering Committee shall notify all members in good standing and request volunteers. The names of all those who volunteer shall be forwarded to the appropriate contact for consideration, or if a limited number of nominees are requested, an election shall be held.
 
+### Section 3. Method of Voting.
+Following Article V, Section 5 of national DSA’s Constitution, delegates to the National Convention must be elected by secret ballot.  Following Article VI, Section 3, of national DSA’s Bylaws, Local Chapters “may determine their own method of election of delegates to the Convention except that a petition from 10% of a Local’s membership or a motion supported by 15% of those present and voting at the Local meeting which determines the method of election will require the use of the Hare system in that Local’s election of delegates to the National Convention.”
+
 ## Article XI. Elections, Nominations and Recalls.
 
 ### Section 1. Nominations Committee.
