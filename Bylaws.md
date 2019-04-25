@@ -220,6 +220,9 @@ The Rules contained in Robert's Rules of Order, Newly Revised, shall govern this
 ### Section 2. Action Out of Order.
 Any action taken by an officer or member of the Local Chapter in contravention of these Bylaws is null and void.
 
+### Section 3. Harassment Policy.
+The Local Chapter will follow the Harassment Policy of national DSA.
+
 ## Article XV. Dissolution.
 In the event of the dissolution of this Local Chapter, all remaining funds and assets are to be released to National DSA or a neighboring DSA chapter. If both this Chapter and National DSA are being dissolved, then all remaining funds and assets are to be released to such other organizations that are organized exclusively for the promotion of social welfare and that will operate to further the common good and general welfare of the community included in this Chapter's stated boundaries. The final action of the Chapter shall be to vote on selecting the organization(s) to which funds will be disbursed.
 
