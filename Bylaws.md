@@ -176,7 +176,7 @@ A committee or subcommittee may choose to delegate some portion of its mission s
 The Committee Organizer of a subcommittee shall serve as regular members of the committee above them to coordinate the committee and subcommittees work, and shall provide to that committee up to date records of their and all subsequent subcommittee's minutes, actions, financial, and other necessary documentation.
 
 ## Article IX. Caucuses.
-Any group of 5 or more members may form a caucus by submitting a proposal to the Steering Committee. The Steering Committee must recognize all such groups as caucuses as long as they align with the Chapter's purpose (see Article II). Such recognition shall not be construed as having authority to officially act on behalf of the Chapter. Caucuses must be permitted to announce their meetings using the communication channels the chapter uses to announce Meetings of the chapter. Caucuses may dissolve themselves by notifying the Steering Committee.
+Any group of 5 or more members may form a caucus by submitting a proposal to the Steering Committee. The Steering Committee must recognize all such groups as caucuses as long as they align with the Local Chapter's purpose (see Article II). Such recognition shall not be construed as having authority to officially act on behalf of the Chapter. Caucuses must be permitted to announce their meetings using the communication channels the chapter uses to announce Meetings of the chapter. Caucuses may dissolve themselves by notifying the Steering Committee.
 
 ## Article X. Delegates & Nominees to National, Regional, and State Bodies.
 
