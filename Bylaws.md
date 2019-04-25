@@ -1,11 +1,9 @@
 # Bylaws of the Space Coast, FL Local Chapter of the Democratic Socialists of America
 
 ## Article I: Name.
-
 The name of the Local Chapter shall be the Space Coast, FL Democratic Socialists of America (DSA). DSA is a not-for-profit corporation.
 
 ## Article II: Purpose.
-
 The Space Coast Local Chapter of the Democratic Socialists of America is organized exclusively to promote social welfare. It seeks to facilitate the transition to a truly democratic and socialist society, one in which the means/resources of production are democratically and socially controlled.
 
 DSA rejects capitalism, an economic order based on oppression, private profit, alienated labor, gross inequalities of wealth and power, discrimination based on race, gender, disability or sexual orientation, and brutality and violence in defense of the status quo.
@@ -19,13 +17,13 @@ We are socialists because we are developing a concrete strategy for achieving th
 ## Article III: Membership.
 
 ### Section 1. Membership.
-Members of the Space Coast DSA (collectively, the membership) will be those individuals who are in good standing with National DSA, who reside and/or work in Brevard and Indian River Counties, FL; if they do not, individuals may join the Local Chapter by sending an email or letter to the Steering Committee. It will be the responsibility of members to:
-- approve policies and guidelines for the operation of the Local Chapter
-- to elect the Local Chapter's Steering Committee
-- to elect delegates to the national, regional, and state conventions
-- to vote on matters related to local and national policy
-- to make recommendations on issues, policies, activities, and ongoing efforts pursuant to local or national political goals, and
-- to contribute toward the Local Chapter's goals as described in Article II.
+Members of the Space Coast DSA (collectively, the membership) will be those individuals who are in good standing with National DSA, who reside, study, and/or work in Brevard and Indian River Counties, FL.  Individuals may not be members of the Local Chapter without being members of national DSA. It will be the responsibility of members to:
+1. approve policies and guidelines for the operation of the Local Chapter
+2. to elect the Local Chapter's Steering Committee
+3. to elect delegates to the national, regional, and state conventions
+4. to vote on matters related to local and national policy
+5. to make recommendations on issues, policies, activities, and ongoing efforts pursuant to local or national political goals, and
+6. to contribute toward the Local Chapter's goals as described in Article II.
 
 ### Section 2. Resignation and Expulsion.
 Any member may resign from National DSA by submitting an email or letter of resignation to the National Director of National DSA.
